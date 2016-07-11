@@ -8,6 +8,7 @@ gem 'omniauth-github', '~> 1.1', '>= 1.1.2'
 gem 'simple_form', '~> 3.2', '>= 3.2.1'
 gem 'paperclip', '~> 5.0'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
+gem 'dotenv', '~> 2.1', '>= 2.1.1', :groups => [:development, :test]
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.0'
